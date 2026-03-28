@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": "Hikaru",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "your-email@example.com",
+    "phone": "(912) 555-4321",
+    "url": "https://Hikaru-1216.github.io",
+    "summary": "这里写一段简短的个人自我介绍。比如：热爱开源技术，拥有丰富的Web开发经验...",
+    "location": {
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Hikaru-1216",
+        "url": "https://github.com/Hikaru-1216"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "公司名称",
+      "position": "前端开发工程师",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
+      "summary": "负责公司核心业务的前端开发工作。",
+      "highlights": [
+        "优化了首屏加载速度，提升了50%",
+        "使用 React 配合 TypeScript 重构了老旧系统"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "某某大学",
+      "area": "计算机科学与技术",
+      "studyType": "本科",
+      "startDate": "2016-09-01",
+      "endDate": "2020-07-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript", "React"]
+    }
+  ]
+}
