@@ -30,8 +30,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Resume CLI and Elegant Theme
-        run: npm install -g resume-cli jsonresume-theme-elegant
+     - name: Install Resume CLI and Elegant Theme
+        run: |
+      npm install -g resume-cli
+      npm install jsonresume-theme-elegant
 
       - name: Build Resume HTML
         run: |
