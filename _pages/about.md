@@ -16,6 +16,19 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 
 ## 🎓 Education {#education}
 
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <!-- 第一段经历：Zhejiang University -->
+  <tr style="border: none;">
+    <td style="width: 15%; padding: 10px 15px 10px 0; vertical-align: top; border: none;">
+      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; max-width: 100px;">
+    </td>
+    <td style="width: 85%; padding: 10px 0; vertical-align: top; border: none;">
+      <strong>Zhejiang University</strong>, Hangzhou, China <br>
+      B.Eng in [Your Major], <em>Sept. 2023 - Present</em> <br>
+      <strong>Overall GPA:</strong> 3.XX / 4.00 (Rank: XX/XX)
+    </td>
+  </tr>
+
 * **Zhejiang University**, Hangzhou, China
   * B.Eng in [Your Major], *Sept. 2023 - Present*
   * **Overall GPA:** 3.XX / 4.00 (Rank: XX/XX)
