@@ -54,7 +54,12 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
   }
-
+  h3 {
+    margin-top: 1em;  /* 调整与上方内容的间距，默认通常是 1.5em 或更大 */
+    margin-bottom: 0.3em; /* 调整与下方内容的间距，默认通常是 0.5em 或更大 */
+    font-size: 1.1em; /* 调整这个数值来改变三级标题的大小 */
+  }
+   
   p, li, dl {
     font-size: 1em;
   }
