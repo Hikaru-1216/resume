@@ -23,7 +23,7 @@ repository               : "Hikaru-1216/resume"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xinyan Yao(姚鑫炎)"
   # pronouns         : # example: "she/her"  
   bio              : "Zhejiang University"
