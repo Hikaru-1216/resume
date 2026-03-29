@@ -16,29 +16,27 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 
 ## 🎓 Education {#education}
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 0;">
   <tr style="border: none;">
-    <!-- 左侧校徽部分：增加宽度比例 -->
-    <td style="width: 20%; padding: 0 20px 15px 0; vertical-align: top; border: none;">
-      <!-- 将 max-width 从 100px 调大到了 130px -->
-      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; max-width: 130px; display: block; margin: 0 auto;">
+    <!-- 左侧校徽：减小宽度比例，极大地减小了右侧的 padding(从15px改成5px) -->
+    <td style="width: 12%; padding: 5px 15px 5px 0; vertical-align: top; border: none;">
+      <!-- 图片大小可以由 max-width 控制，这里设为 120px -->
+      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; min-width: 90px; max-width: 120px; display: block; margin: 0 auto;">
     </td>
-    <!-- 右侧文字部分：调整字体大小、行高和间距 -->
-    <td style="width: 80%; padding: 0; vertical-align: top; border: none; font-size: 1em; line-height: 1.6;">
-      <div style="margin-bottom: 5px;">
-        <strong style="font-size: 1.1em;">IDEA Lab, Zhejiang University</strong>
+    
+    <!-- 右侧文字：因为左边变窄了，右边占据更大的比例，自然就贴过去了 -->
+    <td style="width: 88%; padding: 0 0 0 5px; vertical-align: top; border: none; font-size: 1em; line-height: 1.5;">
+      <div style="margin-bottom: 2px;">
+        <strong>Zhejiang University</strong>, Hangzhou, China
       </div>
-      <div style="margin-bottom: 5px; color: var(--global-text-color);">
-        Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025 & Jul. 2025 - Present</em>
+      <div style="margin-bottom: 2px; color: var(--global-text-color);">
+        B.Eng in [Your Major], <em>Sept. 2023 - Present</em>
       </div>
-      <div style="margin-bottom: 5px;">
-        Research Focus: Ferroelectric ternary content-addressable memory
-      </div>
-      <div style="margin-bottom: 5px;">
-        Advisors: <a href="#">Prof. Xunzhao Yin</a> and <a href="#">Prof. Cheng Zhuo</a>
+      <div style="margin-bottom: 2px;">
+        <strong>Overall GPA:</strong> 3.XX / 4.00 (Rank: XX/XX)
       </div>
       <div>
-        Mentor: <a href="#">Yu Qian</a>
+        <strong>Junior Year GPA:</strong> 3.XX / 4.00
       </div>
     </td>
   </tr>
