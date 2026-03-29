@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Hikaru",
-    "label": "Full Stack Developer",
+    "name": "Xinyan Yao (姚鑫炎)",
+    "label": "Zhejiang University",
     "image": "",
-    "email": "your-email@example.com",
+    "email": "3230102682@zju.edu.cn",
     "phone": "(912) 555-4321",
     "url": "https://Hikaru-1216.github.io",
-    "summary": "这里写一段简短的个人自我介绍。比如：热爱开源技术，拥有丰富的Web开发经验...",
+    "summary": "ZJU ｜ ISEE ｜ Microelectronics",
     "location": {
-      "city": "Beijing",
-      "countryCode": "CN",
-      "region": "Beijing"
+      "city": "Hangzhou",
+      "countryCode": "China",
+      "region": "Zhejiang"
     },
     "profiles": [
       {
