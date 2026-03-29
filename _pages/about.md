@@ -16,31 +16,29 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 
 ## 🎓 Education {#education}
 
-<table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 0;">
-  <tr style="border: none;">
-    <!-- 左侧校徽：减小宽度比例，极大地减小了右侧的 padding(从15px改成5px) -->
-    <td style="width: 100px; padding: 0 10px 0 0; vertical-align: top; border: none;">
-      <!-- 图片大小可以由 max-width 控制，这里设为 120px -->
-      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100px; height: 100px; max-width: none; display: block;">
-    </td>
-    
-    <!-- 右侧文字：因为左边变窄了，右边占据更大的比例，自然就贴过去了 -->
-    <td style="padding: 0; vertical-align: top; border: none; font-size: 1em !important; line-height: 1.4;">
-      <div style="margin-bottom: 2px;">
-        <strong>Zhejiang University</strong>, Hangzhou, China
-      </div>
-      <div style="margin-bottom: 2px; color: var(--global-text-color);">
-        B.Eng in [Your Major], <em>Sept. 2023 - Present</em>
-      </div>
-      <div style="margin-bottom: 2px;">
-        <strong>Overall GPA:</strong> 3.XX / 4.00 (Rank: XX/XX)
-      </div>
-      <div>
-        <strong>Junior Year GPA:</strong> 3.XX / 4.00
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧：固定宽度的图片容器，右边距设定为 15px -->
+  <div style="flex: 0 0 100px; margin-right: 15px;">
+    <!-- 强制图片大小为 100x100，并禁止变形 -->
+    <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100px; height: 100px; object-fit: contain; margin: 0;">
+  </div>
+  
+  <!-- 右侧：文字内容 -->
+  <div style="flex: 1; margin: 0; padding: 0;">
+    <div style="margin-bottom: 2px;">
+      <strong>Zhejiang University</strong>, Hangzhou, China
+    </div>
+    <div style="margin-bottom: 2px; color: var(--global-text-color);">
+      B.Eng in [Your Major], <em>Sept. 2023 - Present</em>
+    </div>
+    <div style="margin-bottom: 2px;">
+      <strong>Overall GPA:</strong> 3.XX / 4.00 (Rank: XX/XX)
+    </div>
+    <div style="margin-bottom: 0;">
+      <strong>Junior Year GPA:</strong> 3.XX / 4.00
+    </div>
+  </div>
+</div>
 
 ## 🏆 Honors and Awards {#awards}
 
