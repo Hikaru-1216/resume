@@ -19,7 +19,7 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 <div style="overflow: hidden; margin-bottom: 20px;">
   <!-- 左侧图片：使用 float: left 让它悬浮在左边 -->
   <!-- 这里的 width: 160px 就是图片真实的显示宽度，你可以随意改成 150px、160px，立刻生效 -->
-  <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="float: left; width: 120px; margin-right: 20px; margin-top: 5px;">
+  <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="float: left; width: 100px; margin-right: 20px; margin-top: 5px;">
   
   <!-- 右侧文字：因为图片浮动了，文字会自动在右边排版 -->
   <div style="font-size: 1em; line-height: 1.5;">
