@@ -13,4 +13,4 @@ Here are my certificates and additional documents.
 * [Certificate 1 Name](/files/certificate1.pdf)
 * [Certificate 2 Name](/images/certificate2.jpg)
 
-**
+
