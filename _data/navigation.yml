@@ -10,16 +10,16 @@
 main:
 
   - title: "About me"
-    url: /resume/#about
+    url: #about
 
   - title: "Education"
-    url: /resume/#education
+    url: #education
 
   - title: "Honors and Awards"
-    url: /resume/#awards
+    url: #awards
 
   - title: "Core Courses"
-    url: /resume/#courses
+    url: #courses
 
   - title: "Appendix"
     url: /appendix/
