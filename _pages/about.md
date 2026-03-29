@@ -20,7 +20,7 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
   <!-- 左侧：固定宽度的图片容器，右边距设定为 15px -->
   <div style="flex: 0 0 100px; margin-right: 15px;">
     <!-- 强制图片大小为 100x100，并禁止变形 -->
-    <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100px; height: 100px; object-fit: contain; margin: 0;">
+    <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 200px; height: 200px; object-fit: contain; margin: 0;">
   </div>
   
   <!-- 右侧：文字内容 -->
