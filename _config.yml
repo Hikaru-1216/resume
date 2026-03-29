@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "姚鑫炎（Xinyan Yao） / Resume"
+title                    : "Xinyan Yao（姚鑫炎）｜ Resume"
 title_separator          : "-"
 name                     : &name "Xinyan Yao"
 description              : &description "Xinyan Yao's personal academic website and resume. Undergraduate student at Zhejiang University."   # Update this with a general description of your site, this is the default if not overridden by a page
