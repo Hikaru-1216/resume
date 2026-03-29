@@ -19,13 +19,13 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 <table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 0;">
   <tr style="border: none;">
     <!-- 左侧校徽：减小宽度比例，极大地减小了右侧的 padding(从15px改成5px) -->
-    <td style="width: 12%; padding: 5px 15px 5px 0; vertical-align: top; border: none;">
+    <td style="width: 100px; padding: 0 10px 0 0; vertical-align: top; border: none;">
       <!-- 图片大小可以由 max-width 控制，这里设为 120px -->
-      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; min-width: 90px; max-width: 120px; display: block; margin: 0 auto;">
+      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100px; height: 100px; max-width: none; display: block;">
     </td>
     
     <!-- 右侧文字：因为左边变窄了，右边占据更大的比例，自然就贴过去了 -->
-    <td style="width: 88%; padding: 0 0 0 5px; vertical-align: top; border: none; font-size: 1em; line-height: 1.5;">
+    <td style="padding: 0; vertical-align: top; border: none; font-size: 1em !important; line-height: 1.4;">
       <div style="margin-bottom: 2px;">
         <strong>Zhejiang University</strong>, Hangzhou, China
       </div>
