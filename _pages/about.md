@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h2 id="about" style="margin-top: 0;">👨‍🎓 About me</h2>
 
-I am currently a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University]([ZJU_URL](https://www.zju.edu.cn/)).
+I am currently a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
 
 My primary research interests focus on the captivating field of **Analog IC Design**, with a specific concentration on **Analog-to-Digital Converters (ADCs)**. I am passionate about pushing the boundaries of circuit design to improve energy efficiency and signal fidelity.
 
