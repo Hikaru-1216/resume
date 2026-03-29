@@ -39,9 +39,14 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* 定义我们自定义的 Gelasio + Noto Serif SC 字体栈 */
+/* 网页会优先使用 Gelasio 显示英文和数字，遇到中文时自动回退使用 Noto Serif SC */
+$my-custom-font             : 'Gelasio', 'Noto Serif SC', serif;
+
+/* 将全局正文、标题、图注的字体全部替换为自定义字体 */
+$global-font-family         : $my-custom-font;
+$header-font-family         : $my-custom-font;
+$caption-font-family        : $my-custom-font;
 
 /* ==========================================================================
    Breakpoints
