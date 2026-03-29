@@ -9,14 +9,29 @@
 
 main:
 
+  - title: "About me"
+    url: /resume/#about
+
+  - title: "Education"
+    url: /resume/#education
+
+  - title: "Honors and Awards"
+    url: /resume/#awards
+
+  - title: "Core Courses"
+    url: /resume/#courses
+
+  - title: "Appendix"
+    url: /appendix/
+
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Experience"
-    url: /talks/    
+  # - title: "Experience"
+  #   url: /talks/    
 
-  - title: "Courses"
-    url: /teaching/    
+  # - title: "Courses"
+  #   url: /teaching/    
     
   # - title: "Blog Posts"
   #   url: /year-archive/
