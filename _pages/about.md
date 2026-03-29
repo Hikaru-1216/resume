@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 👨‍🎓 About me {#about}
+<h2 id="about" style="margin-top: 0;">👨‍🎓 About me</h2>
 
 I am an undergraduate student majoring in [Your Major] at the [Your College], [Zhejiang University](https://www.zju.edu.cn/english/). 
 
