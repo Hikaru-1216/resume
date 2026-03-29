@@ -40,23 +40,23 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
 
 ## 🏆 Honors and Awards {#awards}
 
-* **[Zhejiang University Scholarship - Third Prize]**, *Academic Year 2024-2025*
-* **[Third prize of Zhejiang Physics Innovation Competition]**, *Dec. 2024*
-* **[5th Place, Zhejiang University "Sanhao Cup" Sports Dance Competition (Group Rumba)]**, *Jun. 2024*
-* **[Zhejiang University Scholarship - Third Prize]**, *Academic Year 2023-2024*
+* Zhejiang University Scholarship - Third Prize, *Academic Year 2024-2025*
+* Third prize of Zhejiang Physics Innovation Competition, *Dec. 2024*
+* 5th Place, Zhejiang University "Sanhao Cup" Sports Dance Competition (Group Rumba), *Jun. 2024*
+* Zhejiang University Scholarship - Third Prize, *Academic Year 2023-2024*
 
 ## 📚 Core Courses {#courses}
 
 ### Circuits Design and Electronic Devices
-* **[Analog CMOS Integrated Circuit Design]** (Score: 98/100)
-* **[Microelectronic Devices]** (Score: 95/100)
-* **[Fundamentals of Electronic Circuits]** (Score: 93/100)
-* **[Comprehensive Experiment of Electronic Circuit Systems]** (Score: 94/100)
-* **[Semiconductor Physics]** (Score: 89/100)
+* Analog CMOS Integrated Circuit Design (Score: 98/100)
+* Microelectronic Devices (Score: 95/100)
+* Fundamentals of Electronic Circuits (Score: 93/100)
+* Comprehensive Experiment of Electronic Circuit Systems (Score: 94/100)
+* Semiconductor Physics (Score: 89/100)
 
 ### Programming
-* **[Fundamentals of C Programming and Laboratory]** (Score: 92/100)
+* Fundamentals of C Programming and Laboratory (Score: 92/100)
 
 ### Mathematics
-* **[Calculus]** (Score: 94/100)
-* **[Ordinary Differential Equations]** (Score: 92/100)
+* Calculus (Score: 94/100)
+* Ordinary Differential Equations (Score: 92/100)
