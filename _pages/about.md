@@ -17,21 +17,32 @@ Feel free to contact me at [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn)
 ## 🎓 Education {#education}
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- 第一段经历：Zhejiang University -->
   <tr style="border: none;">
-    <td style="width: 15%; padding: 10px 15px 10px 0; vertical-align: top; border: none;">
-      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; max-width: 100px;">
+    <!-- 左侧校徽部分：增加宽度比例 -->
+    <td style="width: 20%; padding: 0 20px 15px 0; vertical-align: top; border: none;">
+      <!-- 将 max-width 从 100px 调大到了 130px -->
+      <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="width: 100%; max-width: 130px; display: block; margin: 0 auto;">
     </td>
-    <td style="width: 85%; padding: 10px 0; vertical-align: top; border: none;">
-      <strong>Zhejiang University</strong>, Hangzhou, China <br>
-      B.Eng in [Your Major], <em>Sept. 2023 - Present</em> <br>
-      <strong>Overall GPA:</strong> 3.XX / 4.00 (Rank: XX/XX)
+    <!-- 右侧文字部分：调整字体大小、行高和间距 -->
+    <td style="width: 80%; padding: 0; vertical-align: top; border: none; font-size: 1em; line-height: 1.6;">
+      <div style="margin-bottom: 5px;">
+        <strong style="font-size: 1.1em;">IDEA Lab, Zhejiang University</strong>
+      </div>
+      <div style="margin-bottom: 5px; color: var(--global-text-color);">
+        Undergraduate Research Intern, <em>Aug. 2024 - Mar. 2025 & Jul. 2025 - Present</em>
+      </div>
+      <div style="margin-bottom: 5px;">
+        Research Focus: Ferroelectric ternary content-addressable memory
+      </div>
+      <div style="margin-bottom: 5px;">
+        Advisors: <a href="#">Prof. Xunzhao Yin</a> and <a href="#">Prof. Cheng Zhuo</a>
+      </div>
+      <div>
+        Mentor: <a href="#">Yu Qian</a>
+      </div>
     </td>
   </tr>
-
-* **Zhejiang University**, Hangzhou, China
-  * B.Eng in [Your Major], *Sept. 2023 - Present*
-  * **Overall GPA:** 3.XX / 4.00 (Rank: XX/XX)
+</table>
 
 ## 🏆 Honors and Awards {#awards}
 
