@@ -8,20 +8,24 @@ redirect_from:
 ---
 <h2 id="about" style="margin-top: 0;">👨‍🎓 About me</h2>
 
-I am currently a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
+I am a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
 
-My primary research interests focus on the captivating field of **Analog IC Design**, with a specific concentration on **Analog-to-Digital Converters (ADCs)**. I am passionate about pushing the boundaries of circuit design to improve energy efficiency and signal fidelity.
+My primary research interests are in **Analog IC Design**, especially **Analog-to-Digital Converters (ADCs)**, with a focus on improving energy efficiency and signal fidelity.
 
-Please feel free to contact me via email at 3230102682@zju.edu.cn for any discussions, potential collaborations, or inquiries.
+I am open to research discussions, collaborations, and internship opportunities.  
+Please feel free to contact me via email: [3230102682@zju.edu.cn](mailto:3230102682@zju.edu.cn).
+
+## 🔬 Research Interests {#research-interests}
+
+* Analog and mixed-signal integrated circuit design
+* Data converter architectures (SAR / pipeline ADCs)
+* Low-power, high-accuracy circuit optimization
 
 ## 🎓 Education {#education}
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <!-- 左侧图片：使用 float: left 让它悬浮在左边 -->
-  <!-- 这里的 width: 160px 就是图片真实的显示宽度，你可以随意改成 150px、160px，立刻生效 -->
-  <img src="/resume/images/zju-logo.png" alt="ZJU Logo" style="float: left; width: 100px; margin-right: 20px; margin-top: 5px;">
+  <img src="{{ '/images/zju-logo.png' | relative_url }}" alt="ZJU Logo" style="float: left; width: 100px; margin-right: 20px; margin-top: 5px;">
   
-  <!-- 右侧文字：因为图片浮动了，文字会自动在右边排版 -->
   <div style="font-size: 1em; line-height: 1.5;">
     <div style="margin-bottom: 2px;">
       <strong>Zhejiang University</strong>, Hangzhou, China
@@ -64,3 +68,8 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
 ### Mathematics
 * Calculus (Score: 94/100)
 * Ordinary Differential Equations (Score: 92/100)
+
+## 📎 Quick Links {#quick-links}
+
+* [Detailed CV]({{ '/cv/' | relative_url }})
+* [Appendix & Certificates]({{ '/appendix/' | relative_url }})
