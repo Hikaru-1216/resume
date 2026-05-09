@@ -40,6 +40,7 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
 
 ## 🏆 Honors and Awards {#awards}
 
+* Meritorious Winner, Mathematical Contest in Modeling (MCM), *2026*
 * Zhejiang University Scholarship - Third Prize, *Academic Year 2024-2025*
 * Third prize of Zhejiang Physics Innovation Competition, *Dec. 2024*
 * 5th Place, Zhejiang University "Sanhao Cup" Sports Dance Competition (Group Rumba), *Jun. 2024*
