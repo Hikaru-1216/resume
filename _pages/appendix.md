@@ -7,8 +7,8 @@ author_profile: true
 
 <style>
 .certificate-viewer {
-  width: 100%;
-  margin: 0.75rem 0 2rem;
+  width: min(88%, 980px);
+  margin: 0.75rem auto 2rem;
   border: 1px solid #d9d9d9;
   border-radius: 6px;
   overflow: hidden;
@@ -18,15 +18,19 @@ author_profile: true
 .certificate-viewer iframe {
   display: block;
   width: 100%;
-  height: 78vh;
-  min-height: 640px;
+  height: 66vh;
+  min-height: 520px;
   border: 0;
 }
 
 @media (max-width: 768px) {
+  .certificate-viewer {
+    width: 100%;
+  }
+
   .certificate-viewer iframe {
-    height: 70vh;
-    min-height: 520px;
+    height: 64vh;
+    min-height: 420px;
   }
 }
 </style>
