@@ -30,10 +30,10 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
       B.Eng in Microelectronics, <em>Sept. 2023 - Present</em>
     </div>
     <div style="margin-bottom: 2px;">
-      <strong>Overall GPA:</strong> 4.37 / 5.00 (Rank: 19/67)
+      <strong>Overall GPA:</strong> 4.42 / 5.00 (Rank: ？/67)
     </div>
     <div style="margin-bottom: 0;">
-      <strong>Junior Year GPA:</strong> 4.83 / 5.00
+      <strong>Junior Year GPA:</strong> 4.80 / 5.00
     </div>
   </div>
 </div>
@@ -50,6 +50,9 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
 
 ### Circuits Design and Electronic Devices
 * Analog CMOS Integrated Circuit Design (Score: 98/100)
+* Digital CMOS Integrated Circuit Design (Score: 93/100)
+* System-on-Chip (SoC) Interface and Module Design (Score: 96/100)
+* Introduction to Chip Yield  (Score: 95/100)
 * Microelectronic Devices (Score: 95/100)
 * Fundamentals of Electronic Circuits (Score: 93/100)
 * Comprehensive Experiment of Electronic Circuit Systems (Score: 94/100)
