@@ -49,7 +49,7 @@ I have hands-on experience with integrated-circuit and digital-system design wor
 * **Cadence:** Proficient in using the Cadence design environment for analog integrated circuit design.
 * **Vivado:** Proficient in using Xilinx Vivado for FPGA design and implementation.
 
-<p><a class="btn" href="/resume/appendix/#project-reports">View detailed project experience</a></p>
+<p><a href="/resume/appendix/#project-reports">View detailed project experience</a></p>
 
 ## 🏆 Honors and Awards {#awards}
 
