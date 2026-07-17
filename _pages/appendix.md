@@ -3,6 +3,8 @@ layout: archive
 title: "Appendix & Certificates"
 permalink: /appendix/
 author_profile: true
+lang: en
+alternate_url: /zh/appendix/
 ---
 
 <style>

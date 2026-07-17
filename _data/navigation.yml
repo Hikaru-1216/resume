@@ -10,19 +10,29 @@
 main:
 
   - title: "About me"
+    title_zh: "关于我"
     url: /#about
+    url_zh: /zh/#about
 
   - title: "Education"
+    title_zh: "教育经历"
     url: /#education
+    url_zh: /zh/#education
 
   - title: "Honors and Awards"
+    title_zh: "荣誉与奖项"
     url: /#awards
+    url_zh: /zh/#awards
 
   - title: "Core Courses"
+    title_zh: "核心课程"
     url: /#courses
+    url_zh: /zh/#courses
 
   - title: "Appendix"
+    title_zh: "附录"
     url: /appendix/
+    url_zh: /zh/appendix/
 
   # - title: "Publications"
   #   url: /publications/
