@@ -43,7 +43,7 @@ alternate_url: /
 * **Cadence：**熟练使用 Cadence 设计环境开展集成电路版图设计与射频集成电路（RFIC）设计。
 * **Vivado：**熟练使用 Xilinx Vivado 开展 FPGA 设计与实现工作。
 
-<p><a class="btn" href="/resume/zh/appendix/#project-reports">点击查看详细项目经历</a></p>
+<p><a href="/resume/zh/appendix/#project-reports">点击查看详细项目经历</a></p>
 
 ## 🏆 荣誉与奖项 {#awards}
 
