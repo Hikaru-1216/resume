@@ -14,4 +14,12 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+{% if page.alternate_url %}
+  {% if page.lang == "zh" %}
+    <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.alternate_url }}"/>
+  {% else %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}{{ site.baseurl }}{{ page.alternate_url }}"/>
+  {% endif %}
+{% endif %}
+
 <!-- end custom head snippets -->
