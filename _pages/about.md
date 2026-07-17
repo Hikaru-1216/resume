@@ -46,7 +46,7 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
 
 I have hands-on experience with integrated-circuit and digital-system design workflows.
 
-* **Cadence:** Proficient in using the Cadence design environment for integrated-circuit layout and radio-frequency integrated circuit (RFIC) design.
+* **Cadence:** Proficient in using the Cadence design environment for analog integrated circuit design.
 * **Vivado:** Proficient in using Xilinx Vivado for FPGA design and implementation.
 
 ## 🏆 Honors and Awards {#awards}
