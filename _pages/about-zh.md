@@ -34,6 +34,15 @@ alternate_url: /
   </div>
 </div>
 
+## 🔬 科研经历 {#research}
+
+### 集成电路与 FPGA 设计实践
+
+在集成电路与数字系统设计实践中，我积累了相关专业工具的实际使用经验。
+
+* **Cadence：**熟练使用 Cadence 设计环境开展集成电路版图设计与射频集成电路（RFIC）设计。
+* **Vivado：**熟练使用 Xilinx Vivado 开展 FPGA 设计与实现工作。
+
 ## 🏆 荣誉与奖项 {#awards}
 
 * 美国大学生数学建模竞赛（MCM）Meritorious Winner，*2026 年*

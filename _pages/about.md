@@ -40,6 +40,15 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
   </div>
 </div>
 
+## 🔬 Research Experience {#research}
+
+### Integrated-Circuit and FPGA Design Practice
+
+I have hands-on experience with integrated-circuit and digital-system design workflows.
+
+* **Cadence:** Proficient in using the Cadence design environment for integrated-circuit layout and radio-frequency integrated circuit (RFIC) design.
+* **Vivado:** Proficient in using Xilinx Vivado for FPGA design and implementation.
+
 ## 🏆 Honors and Awards {#awards}
 
 * Meritorious Winner, Mathematical Contest in Modeling (MCM), *2026*
