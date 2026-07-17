@@ -19,6 +19,11 @@ main:
     url: /#education
     url_zh: /zh/#education
 
+  - title: "Research Experience"
+    title_zh: "科研经历"
+    url: /#research
+    url_zh: /zh/#research
+
   - title: "Honors and Awards"
     title_zh: "荣誉与奖项"
     url: /#awards
