@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a junior undergraduate student majoring in Microelectronics at the [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/).
 
-My primary research interests focus on the captivating field of **Analog IC Design**, with a specific concentration on **Analog-to-Digital Converters (ADCs)**. I am passionate about pushing the boundaries of circuit design to improve energy efficiency and signal fidelity.
+My primary research interests focus on the captivating field of **Analog IC Design and Digital IC Design**, with a specific concentration on **Analog-to-Digital Converters (ADCs)**. I am passionate about pushing the boundaries of circuit design to improve energy efficiency and signal fidelity.
 
 Please feel free to contact me via email at 3230102682@zju.edu.cn for any discussions, potential collaborations, or inquiries.
 
