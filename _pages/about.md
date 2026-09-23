@@ -32,10 +32,10 @@ Please feel free to contact me via email at 3230102682@zju.edu.cn for any discus
       B.Eng in Microelectronics, <em>Sept. 2023 - Present</em>
     </div>
     <div style="margin-bottom: 2px;">
-      <strong>Overall GPA:</strong> 4.42 / 5.00 (Rank: ？/67)
+      <strong>Overall GPA:</strong> 4.43 / 5.00 (Rank: 17/67)
     </div>
     <div style="margin-bottom: 0;">
-      <strong>Junior Year GPA:</strong> 4.80 / 5.00
+      <strong>Junior Year GPA:</strong> 4.80 / 5.00 (Rank: 1/67)
     </div>
   </div>
 </div>
@@ -70,6 +70,7 @@ I have hands-on experience with integrated-circuit and digital-system design wor
 * Fundamentals of Electronic Circuits (Score: 93/100)
 * Comprehensive Experiment of Electronic Circuit Systems (Score: 94/100)
 * Semiconductor Physics (Score: 89/100)
+* IC Layout and RF IC Practicum (Score: 95/100)
 
 ---
 
