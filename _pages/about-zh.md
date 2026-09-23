@@ -26,10 +26,10 @@ alternate_url: /
       微电子科学与工程专业，工学学士，<em>2023 年 9 月至今</em>
     </div>
     <div style="margin-bottom: 2px;">
-      <strong>总绩点：</strong>4.42 / 5.00（排名：？/67）
+      <strong>总绩点：</strong>4.43 / 5.00（排名：17/67）
     </div>
     <div style="margin-bottom: 0;">
-      <strong>大三学年绩点：</strong>4.80 / 5.00
+      <strong>大三学年绩点：</strong>4.80 / 5.00 （排名：1/67）
     </div>
   </div>
 </div>
@@ -64,6 +64,7 @@ alternate_url: /
 * 电子电路基础（成绩：93/100）
 * 电子电路系统综合实验（成绩：94/100）
 * 半导体物理（成绩：89/100）
+* 集成电路版图与射频IC实习（成绩：95/100）
 
 ---
 
